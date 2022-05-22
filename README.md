@@ -11,3 +11,7 @@ if you just want to test the script, you can use the test image:
 ```
 python main.py ./test.jpeg
 ```
+
+Result (browser view + generated html):
+
+![Generated html and browser result](images/result.png)
