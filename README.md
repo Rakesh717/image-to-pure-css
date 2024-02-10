@@ -15,3 +15,5 @@ python main.py ./test.jpeg
 Result (browser view + generated html):
 
 ![Generated html and browser result](images/result.png)
+
+This is for testing
